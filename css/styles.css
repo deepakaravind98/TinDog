@@ -43,7 +43,7 @@
 
 /*Heading Styling ENDS*/
 /*Button Styling*/
-.download-button {
+.download-button-title {
   margin: 5% 3% 5% 0;
   font-weight: 500;
 }
@@ -138,6 +138,7 @@
 
   #features p {
     font-size: 3rem;
+    font-weight: 350;
   }
 
   .fas {
@@ -292,6 +293,11 @@
 .iconss {
   padding-left: 10px;
   font-size: 120%;
+}
+
+.download-button-footer {
+  margin: 5% 3% 5% 0;
+  font-weight: 500;
 }
 
 @media (max-width: 990px) {
