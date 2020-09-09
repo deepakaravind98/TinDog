@@ -84,10 +84,16 @@
   .navbar-brand {
     font-size: 4rem;
 }
-  .download-button {
+  .download-button-title {
+  text-align: left;  
   font-size: 3rem;
-  font-weight: 500;
+  font-weight: 300;
 }
+  .download-button-footer{
+    text-align: center; 
+  font-size: 3rem;
+  font-weight: 300;
+  }
 }
 
 /*************************Title Styling ENDS**************************/
@@ -236,7 +242,7 @@
   }
 
   #pricing p {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
     font-weight: 350;
     color: #8f8f8f;
   }
