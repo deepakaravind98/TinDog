@@ -76,19 +76,6 @@
   #title {
     text-align: center;
   }
-
-  .heading-main {
-    font-size: 2.5rem;
-    line-height: 1.2;
-    font-weight: 850;
-  }
-
-  .navbar-brand {
-    font-size: 2rem;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 410;
-  }
-
   .container-fluid {
     padding: 10% 15% 7%;
   }
@@ -207,30 +194,6 @@
 
 .pricing-column {
   padding: 3% 2%;
-}
-@media (max-width: 990px) {
-
-  #pricing{
-    padding: 50px 20px;
-  }
-  .pricing-column {
-    padding: 3% 15%;
-  }
-  #pricing h3 {
-    font-size: 1.5rem;
-    font-weight: 800;
-  }
-
-  #pricing h2 {
-    font-size: 1.7rem;
-    font-weight: 900;
-  }
-
-  #pricing p {
-    font-size: 0.8rem;
-    font-weight: 450;
-    color: #8f8f8f;
-  }
 }
 
 /******************************PRICES Styling ENDS ************************************/
