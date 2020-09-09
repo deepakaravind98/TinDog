@@ -76,6 +76,12 @@
   #title {
     text-align: center;
   }
+  .heading-main {
+    font-size: 4.2rem;
+}
+  .navbar-brand {
+    font-size: 3rem;
+}
 }
 
 /*************************Title Styling ENDS**************************/
