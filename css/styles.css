@@ -121,15 +121,15 @@
 
 @media (max-width: 990px) {
   .features-font {
-    font-size: 2rem;
+    font-size: 4rem;
   }
 
   #features p {
-    font-size: 1.5rem;
+    font-size: 3rem;
   }
 
   .fas {
-    font-size: 75px;
+    font-size: 90px;
   }
 }
 
@@ -220,17 +220,17 @@
 
 @media (max-width: 990px) {
   #pricing h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     font-weight: 800;
   }
 
   #pricing h2 {
-    font-size: 1.7rem;
+    font-size: 3.4rem;
     font-weight: 900;
   }
 
   #pricing p {
-    font-size: 1.5rem;
+    font-size: 3rem;
     font-weight: 350;
     color: #8f8f8f;
   }
@@ -254,7 +254,7 @@
 
 @media (max-width: 990px) {
   .ctafont {
-    font-size: 2.7rem;
+    font-size: 3.5rem;
     line-height: 1.3;
   }
 }
