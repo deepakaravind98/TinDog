@@ -66,11 +66,11 @@
 }
 
 /*for lower screen sizes*/
-@media (max-width: 1028px) {
-  
-  body{
-    width:100%;
-  }
+@media (max-width: 400px) {
+
+body{
+  width: 100%;
+}
   .iphone-dog {
     text-align: center;
     position: static;
@@ -80,6 +80,7 @@
   }
 
   #title {
+    width: 400px;
     height: 648px;
 
   }
@@ -152,8 +153,9 @@
   padding: 5%
 }
 
-@media (max-width: 1028px){
+@media (max-width: 400px){
 #features {
+    width: 400px;
     height: 550px;
     padding-right: 60px;
     padding-left: 60px;
@@ -200,7 +202,7 @@
   margin: 20px;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 400px) {
   #testimonials{
     width: 400px;
     height: 380px;
@@ -231,8 +233,9 @@
   margin: 20px 31px 20px;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 400px) {
   #press{
+    width: 400px;
     height: 180px;
     padding-left: 10px;
     padding-right: 10px;
@@ -268,9 +271,10 @@
 .pricing-column {
   padding: 3% 2%;
 }
-@media (max-width: 1028px) {
+@media (max-width: 400px) {
 
   #pricing{
+    width: 400px;
     padding: 30px 60px;
   }
 
@@ -331,9 +335,10 @@
   font-weight: 500;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 400px) {
 
   #cta{
+  width: 400px;
   height: 270px;
   padding: 40px 50px;
   }
@@ -373,8 +378,9 @@
   font-size: 120%;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 400px) {
   #footer {
+    width: 400px;
     height: 150px;
     padding: 30px 100px 30px;
   }
