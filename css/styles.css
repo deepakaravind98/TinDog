@@ -71,7 +71,7 @@
 }
 
 /*for lower screen sizes*/
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     
     body{
     width: 100%;
@@ -162,7 +162,7 @@
   padding: 5%
 }
 
-@media (max-width: 900px){
+@media (max-width: 600px){
 #features {
     width: 400px;
     height: 550px;
@@ -211,7 +211,7 @@
   margin: 20px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   #testimonials{
     width: 400px;
     height: 380px;
@@ -242,7 +242,7 @@
   margin: 20px 31px 20px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   #press{
     width: 400px;
     height: 180px;
@@ -280,7 +280,7 @@
 .pricing-column {
   padding: 3% 2%;
 }
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 
   #pricing{
     width: 400px;
@@ -344,7 +344,7 @@
   font-weight: 500;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 
   #cta{
   width: 400px;
@@ -387,7 +387,7 @@
   font-size: 120%;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   #footer {
     width: 400px;
     height: 150px;
