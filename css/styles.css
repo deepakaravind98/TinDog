@@ -1,6 +1,7 @@
 /****************************Title Styling*******************************/
 .body {
   font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
 }
 
 #title {
@@ -69,7 +70,8 @@
 @media (max-width: 1028px) {
   
   body{
-    width:1000px;
+    width:400px;
+    overflow-x: hidden;
   }
   .iphone-dog {
     text-align: center;
